@@ -5,7 +5,7 @@ import { AiOutlineDown } from "react-icons/ai";
 import { BsToggleOn, BsFillPlayCircleFill } from "react-icons/bs";
 import { MdDarkMode } from "react-icons/md";
 import { BiBookAlt, BiSearch } from "react-icons/bi";
-
+//comment
 const Dictionary = () => {
   const [word, setWord] = useState("");
   const [results, setResults] = useState(null);
